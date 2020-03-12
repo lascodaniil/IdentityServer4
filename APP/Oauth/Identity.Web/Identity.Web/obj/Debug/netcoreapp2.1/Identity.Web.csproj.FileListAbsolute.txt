@@ -1,0 +1,14 @@
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Identity.Web.deps.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Identity.Web.runtimeconfig.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Identity.Web.runtimeconfig.dev.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Identity.Web.dll
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\bin\Debug\netcoreapp2.1\Identity.Web.pdb
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.RazorAssemblyInfo.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.RazorAssemblyInfo.cs
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.dll
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.Web\Identity.Web\obj\Debug\netcoreapp2.1\Identity.Web.pdb

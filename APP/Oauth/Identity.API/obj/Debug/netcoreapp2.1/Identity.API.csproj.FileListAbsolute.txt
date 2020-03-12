@@ -1,0 +1,34 @@
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.deps.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.runtimeconfig.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.runtimeconfig.dev.json
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.dll
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.pdb
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.OAuth.dll
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.OAuth.pdb
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorAssemblyInfo.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorAssemblyInfo.cs
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorTargetAssemblyInfo.cache
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.csproj.CopyComplete
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.dll
+C:\Users\Daniil\Desktop\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.pdb
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.deps.json
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.runtimeconfig.json
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.runtimeconfig.dev.json
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.dll
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.API.pdb
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.OAuth.dll
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\bin\Debug\netcoreapp2.1\Identity.OAuth.pdb
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorAssemblyInfo.cache
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorAssemblyInfo.cs
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.RazorTargetAssemblyInfo.cache
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.csproj.CopyComplete
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.dll
+C:\Users\Daniil\Desktop\DESKTOP\New folder (6)\APP\Oauth\Identity.API\obj\Debug\netcoreapp2.1\Identity.API.pdb
